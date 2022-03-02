@@ -1,5 +1,5 @@
 import React, { useEffect } from "react"
-import { Link, NavLink, useHistory } from "react-router-dom"
+import { Link, useHistory } from "react-router-dom"
 import MainScreen from "../../components/MainScreen/MainScreen"
 import { Accordion, Badge, Button, Card } from "react-bootstrap"
 import { useDispatch, useSelector } from "react-redux"
